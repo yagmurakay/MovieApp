@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Views",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\img"
+  ],
+  "SelectedNode": "\\Controllers\\MovieController.cs",
+  "PreviewInSolutionExplorer": false
+}
